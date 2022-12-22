@@ -1,0 +1,20 @@
+:root {
+  /* fonts */
+  --font-londrina-solid: "Londrina Solid";
+  --font-colt-soft: "Colt Soft";
+
+  /* font sizes */
+  --font-size-xs: 20px;
+  --font-size-sm: 40px;
+  --font-size-base: 64px;
+  --font-size-lg: 75px;
+
+  /* Colors */
+  --color-gray-100: #131716;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-turquoise: #0cab8f;
+
+  /* border radiuses */
+  --br-md: 50px;
+}
